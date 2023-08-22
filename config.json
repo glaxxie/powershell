@@ -464,6 +464,16 @@
         "difficulty": 2
       },
       {
+        "slug": "matching-brackets",
+        "name": "Matching Brackets",
+        "uuid": "970494d9-0fba-4ee8-9f9a-f949e6d72ba1",
+        "practices": [
+            "conditionals"
+        ],
+        "prerequisites": [],
+        "difficulty": 2
+      },
+      {
         "slug": "matrix",
         "name": "Matrix",
         "uuid": "87aceeaa-3969-4ae0-b5ea-488837fcc15b",
@@ -500,6 +510,16 @@
         "difficulty": 3
       },
       {
+        "slug": "kindergarten-garden",
+        "name": "Kindergarten Garden",
+        "uuid": "3cbb336f-9824-46a2-817d-d7a6810f5778",
+        "practices": [
+            "classes"
+        ],
+        "prerequisites": [],
+        "difficulty": 3
+      },
+      {
         "slug": "roman-numerals",
         "name": "Roman Numerals",
         "uuid": "acac5b87-4691-467a-8f64-9bbe1ffa9959",
@@ -531,6 +551,14 @@
           "classes",
           "string"
         ],
+        "prerequisites": [],
+        "difficulty": 4
+      },
+      {
+        "slug": "all-your-base",
+        "name": "All Your Base",
+        "uuid": "d9887ff7-95fe-4e9c-b960-aa5a6a0baa61",
+        "practices": [],
         "prerequisites": [],
         "difficulty": 4
       }
