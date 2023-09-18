@@ -460,6 +460,14 @@
         "difficulty": 2
       },
       {
+        "slug": "scrabble-score",
+        "name": "Scrabble Score",
+        "uuid": "70878de3-5da3-4ab6-bf14-e7c5edd53b5c",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 2
+      },
+      {
         "slug": "sublist",
         "name": "Sublist",
         "uuid": "e52a52e8-a08e-4060-9413-198c931d52d2",
@@ -523,6 +531,16 @@
         "uuid": "970494d9-0fba-4ee8-9f9a-f949e6d72ba1",
         "practices": [
             "conditionals"
+        ],
+        "prerequisites": [],
+        "difficulty": 2
+      },
+      {
+        "slug": "yacht",
+        "name": "Yacht",
+        "uuid": "48571314-77a4-4b7a-b4d1-9c1626cf2e14",
+        "practices": [
+            "enums"
         ],
         "prerequisites": [],
         "difficulty": 2
