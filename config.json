@@ -546,6 +546,14 @@
         "difficulty": 2
       },
       {
+        "slug": "twelve-days",
+        "name": "Twelve Days",
+        "uuid": "afa5764e-7bc5-4d3f-88f0-9ac430d65423",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 2
+      },
+      {
         "slug": "matrix",
         "name": "Matrix",
         "uuid": "87aceeaa-3969-4ae0-b5ea-488837fcc15b",
@@ -717,6 +725,14 @@
         "slug": "complex-numbers",
         "name": "Complex Numbers",
         "uuid": "c84d1aaa-639b-4af6-88ec-6a1b0180b752",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 4
+      },
+      {
+        "slug": "food-chain",
+        "name": "Food Chain",
+        "uuid": "b39e143f-dbf6-4157-9e18-220147b145a9",
         "practices": [],
         "prerequisites": [],
         "difficulty": 4
