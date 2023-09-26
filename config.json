@@ -536,6 +536,14 @@
         "difficulty": 2
       },
       {
+        "slug": "transpose",
+        "name": "Transpose",
+        "uuid": "a7f94e61-5689-45e2-ad22-24721a6f6abd",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 2
+      },
+      {
         "slug": "yacht",
         "name": "Yacht",
         "uuid": "48571314-77a4-4b7a-b4d1-9c1626cf2e14",
@@ -549,6 +557,14 @@
         "slug": "twelve-days",
         "name": "Twelve Days",
         "uuid": "afa5764e-7bc5-4d3f-88f0-9ac430d65423",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 2
+      },
+      {
+        "slug": "run-length-encoding",
+        "name": "Run-Length Encoding",
+        "uuid": "e22994f6-95c0-456d-91a8-4945df343f93",
         "practices": [],
         "prerequisites": [],
         "difficulty": 2
@@ -664,6 +680,14 @@
         "slug": "ocr-numbers",
         "name": "OCR Numbers",
         "uuid": "15fdacc6-2da7-42ae-bc59-98740fdbfa80",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 3
+      },
+      {
+        "slug": "crypto-square",
+        "name": "Crypto Square",
+        "uuid": "169d1a37-1f0f-42ea-9b1d-8cff7e6f2ffc",
         "practices": [],
         "prerequisites": [],
         "difficulty": 3
