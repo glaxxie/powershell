@@ -736,11 +736,26 @@
         ],
         "prerequisites": [],
         "difficulty": 4
+      },{
+        "slug": "rail-fence-cipher",
+        "name": "Rail Fence Cipher",
+        "uuid": "33012310-6494-47ff-a29f-6cc168fe12b4",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 4
       },
       {
         "slug": "all-your-base",
         "name": "All Your Base",
         "uuid": "d9887ff7-95fe-4e9c-b960-aa5a6a0baa61",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 4
+      },
+      {
+        "slug": "variable-length-quantity",
+        "name": "Variable Length Quantity",
+        "uuid": "5cd2d0cc-b29b-4f12-ad7d-a812dff1bae9",
         "practices": [],
         "prerequisites": [],
         "difficulty": 4
