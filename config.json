@@ -677,6 +677,14 @@
         "difficulty": 3
       },
       {
+        "slug": "pythagorean-triplet",
+        "name": "Pythagorean Triplet",
+        "uuid": "7d3309b4-8efb-4357-8893-c654ccee7e79",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 3
+      },
+      {
         "slug": "ocr-numbers",
         "name": "OCR Numbers",
         "uuid": "15fdacc6-2da7-42ae-bc59-98740fdbfa80",
@@ -780,6 +788,14 @@
         "slug": "food-chain",
         "name": "Food Chain",
         "uuid": "b39e143f-dbf6-4157-9e18-220147b145a9",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 4
+      },
+      {
+        "slug": "killer-sudoku-helper",
+        "name": "Killer Sudoku Helper",
+        "uuid": "cdfc017a-30aa-4dcd-aa79-8a7dfcd7bca1",
         "practices": [],
         "prerequisites": [],
         "difficulty": 4
