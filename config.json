@@ -650,6 +650,14 @@
         "difficulty": 3
       },
       {
+        "slug": "saddle-points",
+        "name": "Saddle Points",
+        "uuid": "512f0d92-57c1-403c-a96a-82b5066fd047",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 3
+      },
+      {
         "slug": "clock",
         "name": "Clock",
         "uuid": "31a5ba31-3f86-4957-87cd-8200eee0a0f4",
@@ -699,6 +707,14 @@
         "practices": [],
         "prerequisites": [],
         "difficulty": 3
+      },
+      {
+        "slug": "simple-linked-list",
+        "name": "Simple Linked List",
+        "uuid": "97477cc5-2cad-44a6-9d5b-d82afe02465e",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 4
       },
       {
         "slug": "pascals-triangle",
@@ -796,6 +812,14 @@
         "slug": "killer-sudoku-helper",
         "name": "Killer Sudoku Helper",
         "uuid": "cdfc017a-30aa-4dcd-aa79-8a7dfcd7bca1",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 4
+      },
+      {
+        "slug": "minesweeper",
+        "name": "Minesweeper",
+        "uuid": "23508af2-2bf3-4ef9-aac4-f41471afe76d",
         "practices": [],
         "prerequisites": [],
         "difficulty": 4
