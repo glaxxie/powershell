@@ -570,6 +570,14 @@
         "difficulty": 2
       },
       {
+        "slug": "pig-latin",
+        "name": "Pig Latin",
+        "uuid": "8f632676-65c7-4edf-a395-5b6f6d0ca84e",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 2
+      },
+      {
         "slug": "matrix",
         "name": "Matrix",
         "uuid": "87aceeaa-3969-4ae0-b5ea-488837fcc15b",
@@ -861,6 +869,14 @@
         "name": "Rational Numbers",
         "uuid": "5d76a98a-f130-41b3-af1f-1b8d32d2f6e6",
         "practices": ["operator-overloading"],
+        "prerequisites": [],
+        "difficulty": 5
+      },
+      {
+        "slug": "connect",
+        "name": "Connect",
+        "uuid": "97aafbc5-da65-4539-aaeb-0d4507b1bf44",
+        "practices": [],
         "prerequisites": [],
         "difficulty": 5
       }
