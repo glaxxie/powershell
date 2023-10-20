@@ -326,6 +326,14 @@
         "difficulty": 1
       },
       {
+        "slug": "micro-blog",
+        "name": "Micro Blog",
+        "uuid": "98453c90-f5a7-4798-b173-e388be646aa6",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 2
+      },
+      {
         "slug": "etl",
         "name": "Etl",
         "uuid": "85148e36-583b-4eba-9f66-daeb0c865daa",
@@ -879,6 +887,14 @@
         "practices": [],
         "prerequisites": [],
         "difficulty": 5
+      },
+      {
+        "slug": "forth",
+        "name": "Forth",
+        "uuid": "a66c762e-77fa-413d-a84b-03eb099700c2",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 8
       }
     ]
   },
