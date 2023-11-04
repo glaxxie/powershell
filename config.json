@@ -841,6 +841,22 @@
         "difficulty": 4
       },
       {
+        "slug": "say",
+        "name": "Say",
+        "uuid": "e7ae59c8-29af-428b-929d-eec268e3a3e9",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 4
+      },
+      {
+        "slug": "scale-generator",
+        "name": "Scale Generator",
+        "uuid": "c2eaec94-826e-44e2-b92d-827a713dd373",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 5
+      },
+      {
         "slug": "change",
         "name": "Change",
         "uuid": "352d9205-5f01-4755-8844-e2a44d7b667b",
@@ -895,6 +911,14 @@
         "practices": [],
         "prerequisites": [],
         "difficulty": 5
+      },
+      {
+        "slug": "two-bucket",
+        "name": "Two Bucket",
+        "uuid": "f16d5ba7-e15f-49e6-a391-e6a60c7171ff",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 6
       },
       {
         "slug": "forth",
