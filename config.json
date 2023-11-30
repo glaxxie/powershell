@@ -594,6 +594,14 @@
         "difficulty": 3
       },
       {
+        "slug": "list-ops",
+        "name": "List Ops",
+        "uuid": "83d28b1b-7ae5-4fdb-b3ec-47fe889827b4",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 3
+      },
+      {
         "slug": "matrix",
         "name": "Matrix",
         "uuid": "87aceeaa-3969-4ae0-b5ea-488837fcc15b",
@@ -857,13 +865,12 @@
         "difficulty": 4
       },
       {
-        "slug": "scale-generator",
-        "name": "Scale Generator",
-        "uuid": "c2eaec94-826e-44e2-b92d-827a713dd373",
-        "status": "deprecated",
+        "slug": "palindrome-products",
+        "name": "Palindrome Products",
+        "uuid": "59929243-2d63-4434-8734-90d7401034e4",
         "practices": [],
         "prerequisites": [],
-        "difficulty": 5
+        "difficulty": 4
       },
       {
         "slug": "change",
@@ -914,6 +921,14 @@
         "difficulty": 5
       },
       {
+        "slug": "custom-set",
+        "name": "Custom Set",
+        "uuid": "8643e825-bdbf-4a18-8559-5974a7e1585c",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 5
+      },
+      {
         "slug": "grep",
         "name": "Grep",
         "uuid": "7eec693f-d1b3-48c1-b599-2cd168da3dbc",
@@ -930,12 +945,45 @@
         "difficulty": 6
       },
       {
+        "slug": "book-store",
+        "name": "Book Store",
+        "uuid": "890df47f-19d8-406a-b124-9d0613db486d",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 7
+      },
+      {
+        "slug": "zipper",
+        "name": "Zipper",
+        "uuid": "ed6dc7be-1a8b-4261-a28a-0e4fe06ef466",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 8
+      },
+      {
         "slug": "forth",
         "name": "Forth",
         "uuid": "a66c762e-77fa-413d-a84b-03eb099700c2",
         "practices": [],
         "prerequisites": [],
         "difficulty": 8
+      },
+      {
+        "slug": "zebra-puzzle",
+        "name": "Zebra Puzzle",
+        "uuid": "66946bd7-5b80-4889-9de6-c0a02fa9df92",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 8
+      },
+      {
+        "slug": "scale-generator",
+        "name": "Scale Generator",
+        "uuid": "c2eaec94-826e-44e2-b92d-827a713dd373",
+        "status": "deprecated",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 5
       }
     ]
   },
