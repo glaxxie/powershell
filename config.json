@@ -586,6 +586,14 @@
         "difficulty": 2
       },
       {
+        "slug": "pop-count",
+        "name": "Pop Count",
+        "uuid": "65fa1796-64de-4da7-8050-41b2a9addd9c",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 2
+      },
+      {
         "slug": "wordy",
         "name": "Wordy",
         "uuid": "5c84e3b4-d6d1-42e5-9614-c0c394a6b08f",
@@ -881,6 +889,14 @@
         "difficulty": 4
       },
       {
+        "slug": "affine-cipher",
+        "name": "Affine Cipher",
+        "uuid": "0db7efd5-2ece-481a-b706-0e011aad52aa",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 5
+      },
+      {
         "slug": "markdown",
         "name": "Markdown",
         "uuid": "125b3f79-6485-4e5a-af0c-0238f4128dc6",
@@ -953,6 +969,14 @@
         "difficulty": 5
       },
       {
+        "slug": "rectangles",
+        "name": "Rectangles",
+        "uuid": "0c624e88-1baf-4760-b0ff-6a138e62113f",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 6
+      },
+      {
         "slug": "two-bucket",
         "name": "Two Bucket",
         "uuid": "f16d5ba7-e15f-49e6-a391-e6a60c7171ff",
@@ -964,6 +988,14 @@
         "slug": "word-search",
         "name": "Word Search",
         "uuid": "246b4736-2a13-4298-a989-fb7ebc394c1b",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 6
+      },
+      {
+        "slug": "knapsack",
+        "name": "Knapsack",
+        "uuid": "e59c633c-f5d1-45e6-bfb3-b32f0bb12f18",
         "practices": [],
         "prerequisites": [],
         "difficulty": 6
