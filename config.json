@@ -586,8 +586,8 @@
         "difficulty": 2
       },
       {
-        "slug": "pop-count",
-        "name": "Pop Count",
+        "slug": "eliuds-eggs",
+        "name": "Eliuds Eggs",
         "uuid": "65fa1796-64de-4da7-8050-41b2a9addd9c",
         "practices": [],
         "prerequisites": [],
@@ -1087,6 +1087,14 @@
         "practices": [],
         "prerequisites": [],
         "difficulty": 8
+      },
+      {
+        "slug": "sgf-parsing",
+        "name": "SGF Parsing",
+        "uuid": "d7163f3c-069d-451c-858c-a58a112c2a87",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 9
       },
       {
         "slug": "scale-generator",
