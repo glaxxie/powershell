@@ -961,6 +961,14 @@
         "difficulty": 5
       },
       {
+        "slug": "dot-dsl",
+        "name": "DOT DSL",
+        "uuid": "79c56891-bb51-4de9-acb1-13edfa14573e",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 5
+      },
+      {
         "slug": "connect",
         "name": "Connect",
         "uuid": "97aafbc5-da65-4539-aaeb-0d4507b1bf44",
@@ -988,6 +996,14 @@
         "slug": "linked-list",
         "name": "Linked List",
         "uuid": "9650379f-9c97-4ba6-8fd1-c548642c8a0a",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 5
+      },
+      {
+        "slug": "ledger",
+        "name": "Ledger",
+        "uuid": "20bad781-7c4b-4133-8ce3-2160ab12a3a0",
         "practices": [],
         "prerequisites": [],
         "difficulty": 5
@@ -1052,6 +1068,14 @@
         "slug": "satellite",
         "name": "Satellite",
         "uuid": "8f4635fb-a904-4cbf-badb-859d4aa9f84b",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 7
+      },
+      {
+        "slug": "rest-api",
+        "name": "REST API",
+        "uuid": "3eee7ed8-09ca-4072-8bd9-2bbc682a8dfb",
         "practices": [],
         "prerequisites": [],
         "difficulty": 7
