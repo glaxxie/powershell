@@ -972,6 +972,14 @@
         "difficulty": 4
       },
       {
+        "slug": "split-second-stopwatch",
+        "name": "Split Second Stopwatch",
+        "uuid": "09ae15d4-b79e-4666-ad37-58a6545bb4e9",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 5
+      },
+      {
         "slug": "affine-cipher",
         "name": "Affine Cipher",
         "uuid": "0db7efd5-2ece-481a-b706-0e011aad52aa",
@@ -1107,6 +1115,14 @@
         "slug": "camicia",
         "name": "Camicia",
         "uuid": "7aaaf5fa-1a22-433b-9c0d-0e1c035eba3d",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 5
+      },
+      {
+        "slug": "piecing-it-together",
+        "name": "Piecing It Together",
+        "uuid": "23b80d70-283c-44be-a360-8a23a42773f4",
         "practices": [],
         "prerequisites": [],
         "difficulty": 5
